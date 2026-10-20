@@ -30,9 +30,8 @@ TextUtils is a React-based web application that helps users perform common text 
 
 Add a screenshot of your application to showcase its interface.
 
-```md
-![TextUtils Preview](./screenshots/textutils.png)
-```
+[TextUtils Preview](./screenshots/textutils.png)
+
 
 ## 🚀 Getting Started
 
