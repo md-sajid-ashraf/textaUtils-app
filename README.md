@@ -4,19 +4,21 @@ TextUtils is a React-based web application that helps users perform common text 
 
 ## 🌐 Live Demo
 
-**Try TextUtils here:** [TextUtils Live Website](https://YOUR-NETLIFY-URL.netlify.app)
+**Try TextUtils here:** [TextUtils Live Website](https://analysetextapp.netlify.app)
 
 ## ✨ Features
 
 - Convert text to **UPPERCASE**
 - Convert text to **lowercase**
+- Convert text to **Title Case**
+- Convert text to **Italic**
+- Convert text to **Download text**
 - Clear the text area
 - Copy text to the clipboard
-- Remove extra spaces
 - Count words and characters
 - Estimate text reading time
 - Responsive user interface
-- Light and dark mode (if implemented)
+- Light and dark mode 
 
 ## 🛠️ Built With
 
@@ -47,7 +49,7 @@ Follow these instructions to run the project locally.
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/md-sajid-ashraf/textaUtils-app.git
 ```
 
 **2. Navigate to the project directory**
@@ -120,8 +122,8 @@ TextUtils was developed to make everyday text editing and analysis tasks simple,
 
 **Your Name**
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
-- Live Project: [TextUtils on Netlify](https://YOUR-NETLIFY-URL.netlify.app)
+- GitHub: [Your GitHub Profile](https://github.com/md-sajid-ashraf)
+- Live Project: [TextUtils on Netlify](https://analysetextapp.netlify.app)
 
 ## 📄 License
 
